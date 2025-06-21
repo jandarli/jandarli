@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on [book-review-api](https://github.com/jandarli/book-review-api)<br><br>- 🌱 I’m currently re-learning **Django** [here](https://github.com/MHS-Global-Alumni-Network/mhsganwebsite)<br><br>- 🌱 I’m currently learning  ☁️☁ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/><br><br>
+ 🔭 I’m currently working on [book-review-api](https://github.com/jandarli/book-review-api)<br><br>- 🌱 I’m currently re-learning **Django** [here](https://github.com/MHS-Global-Alumni-Network/mhsganwebsite)<br><br>- 🌱 I’m currently learning  ☁️  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/><br><br>
 
 <br><br>
 # 💻 Languages:
