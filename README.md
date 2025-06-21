@@ -13,5 +13,4 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jandarli&show_icons=true&locale=en&layout=compact" alt="jandarli" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jandarli&show_icons=true&locale=en" alt="jandarli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jandarli&" alt="jandarli" /></p>
+![](https://nirzak-streak-stats.vercel.app/?user=jandarli&theme=city_lights&hide_border=false)<br/>
