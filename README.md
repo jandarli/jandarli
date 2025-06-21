@@ -1,6 +1,13 @@
-# 💫 About Me:
- 🔭 I’m currently working on [book-review-api](https://github.com/jandarli/book-review-api)<br><br>- 🌱 I’m currently re-learning **Django**<br><br>- 🤝 I’m looking for help with [mhsganwebsite](https://github.com/MHS-Global-Alumni-Network/mhsganwebsite)
+<h1 align="center">Hi 👋, I'm Jan</h1>
+<h3 align="center">A passionate tinkerer who is always learning new things</h3>
 
+- 🔭 I’m currently working on [book-review-api](https://github.com/jandarli/book-review-api)
+
+- 🌱 I’m currently re-learning **Django**
+
+- 🤝 I’m looking for help with [mhsganwebsite](https://github.com/MHS-Global-Alumni-Network/mhsganwebsite)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
